@@ -10,87 +10,87 @@ Measurements
 tBodyAccMeanX
 <br>tBodyAccMeanY
 tBodyAccMeanZ
-tBodyAccStdX
+<br>tBodyAccStdX
 tBodyAccStdY
-tBodyAccStdZ
+<br>tBodyAccStdZ
 tGravityAccMeanX
-tGravityAccMeanY
+<br>tGravityAccMeanY
 tGravityAccMeanZ
-tGravityAccStdX
+<br>tGravityAccStdX
 tGravityAccStdY
-tGravityAccStdZ
+<br>tGravityAccStdZ
 tBodyAccJerkMeanX
-tBodyAccJerkMeanY
+<br>tBodyAccJerkMeanY
 tBodyAccJerkMeanZ
-tBodyAccJerkStdX
+<br>tBodyAccJerkStdX
 tBodyAccJerkStdY
-tBodyAccJerkStdZ
+<br>tBodyAccJerkStdZ
 tBodyGyroMeanX
-tBodyGyroMeanY
+<br>tBodyGyroMeanY
 tBodyGyroMeanZ
-tBodyGyroStdX
+<br>tBodyGyroStdX
 tBodyGyroStdY
-tBodyGyroStdZ
+<br>tBodyGyroStdZ
 tBodyGyroJerkMeanX
-tBodyGyroJerkMeanY
+<br>tBodyGyroJerkMeanY
 tBodyGyroJerkMeanZ
-tBodyGyroJerkStdX
+<br>tBodyGyroJerkStdX
 tBodyGyroJerkStdY
-tBodyGyroJerkStdZ
+<br>tBodyGyroJerkStdZ
 tBodyAccMagMean
-tBodyAccMagStd
+<br>tBodyAccMagStd
 tGravityAccMagMean
-tGravityAccMagStd
+<br>tGravityAccMagStd
 tBodyAccJerkMagMean
-tBodyAccJerkMagStd
+<br>tBodyAccJerkMagStd
 tBodyGyroMagMean
-tBodyGyroMagStd
+<br>tBodyGyroMagStd
 tBodyGyroJerkMagMean
-tBodyGyroJerkMagStd
+<br>tBodyGyroJerkMagStd
 fBodyAccMeanX
-fBodyAccMeanY
+<br>fBodyAccMeanY
 fBodyAccMeanZ
-fBodyAccStdX
+<br>fBodyAccStdX
 fBodyAccStdY
-fBodyAccStdZ
+<br>fBodyAccStdZ
 fBodyAccMeanFreqX
-fBodyAccMeanFreqY
+<br>fBodyAccMeanFreqY
 fBodyAccMeanFreqZ
-fBodyAccJerkMeanX
+<br>fBodyAccJerkMeanX
 fBodyAccJerkMeanY
-fBodyAccJerkMeanZ
+<br>fBodyAccJerkMeanZ
 fBodyAccJerkStdX
-fBodyAccJerkStdY
+<br>fBodyAccJerkStdY
 fBodyAccJerkStdZ
-fBodyAccJerkMeanFreqX
+<br>fBodyAccJerkMeanFreqX
 fBodyAccJerkMeanFreqY
-fBodyAccJerkMeanFreqZ
+<br>fBodyAccJerkMeanFreqZ
 fBodyGyroMeanX
-fBodyGyroMeanY
+<br>fBodyGyroMeanY
 fBodyGyroMeanZ
-fBodyGyroStdX
+<br>fBodyGyroStdX
 fBodyGyroStdY
-fBodyGyroStdZ
+<br>fBodyGyroStdZ
 fBodyGyroMeanFreqX
-fBodyGyroMeanFreqY
+<br>fBodyGyroMeanFreqY
 fBodyGyroMeanFreqZ
-fBodyAccMagMean
+<br>fBodyAccMagMean
 fBodyAccMagStd
-fBodyAccMagMeanFreq
+<br>fBodyAccMagMeanFreq
 fBodyBodyAccJerkMagMean
-fBodyBodyAccJerkMagStd
+<br>fBodyBodyAccJerkMagStd
 fBodyBodyAccJerkMagMeanFreq
-fBodyBodyGyroMagMean
+<br>fBodyBodyGyroMagMean
 fBodyBodyGyroMagStd
-fBodyBodyGyroMagMeanFreq
+<br>fBodyBodyGyroMagMeanFreq
 fBodyBodyGyroJerkMagMean
-fBodyBodyGyroJerkMagStd
+<br>fBodyBodyGyroJerkMagStd
 fBodyBodyGyroJerkMagMeanFreq
-Activity Labels
+<br>Activity Labels
 
-WALKING (value 1): subject was walking during the test
+<br>WALKING (value 1): subject was walking during the test
 WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
-WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
+<br>WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
 SITTING (value 4): subject was sitting during the test
-STANDING (value 5): subject was standing during the test
+<br>STANDING (value 5): subject was standing during the test
 LAYING (value 6): subject was laying down during the test
